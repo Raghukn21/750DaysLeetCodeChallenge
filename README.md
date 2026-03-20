@@ -1,4 +1,4 @@
-# 750DaysLeetCodeChallenge
+# 75DaysLeetCodeChallenge
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
